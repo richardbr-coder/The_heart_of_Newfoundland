@@ -1,0 +1,20 @@
+{
+    "name": "The_heart_of_newfoundland",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "aos": "^2.3.4",
+      "jquery": "^3.5.1",
+      "live-server": "^1.2.1",
+      "tailwindcss": "^1.8.13",
+      "twilio": "^3.52.0"
+    }
+  }
+  
